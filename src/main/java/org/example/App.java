@@ -6,7 +6,7 @@ package org.example;
 public class App {
     public static void main(String[] args) {
         System.out.println("Hello World!");
-        String text = "Hello new day!";
+        String text = "Hello new day and new world!";
         printSomeText(text);
     }
 
